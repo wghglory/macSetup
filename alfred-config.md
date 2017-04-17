@@ -1,0 +1,49 @@
+# Alfred workflow
+
+<https://github.com/zenorocha/alfred-workflows>
+
+- Apple Account Switcher
+- [alfred-terminalfinder](https://github.com/LeEnno/alfred-terminalfinder)
+- Baidu Search : bd
+- Bilibili
+- CDN (v1.5)
+- Copy as plain text : `shift cmd c`
+- Copy path : `ctrl shift c`
+- Copy url : url
+- Create New file in finder: `ctrl N`
+- DAS.units : units
+- Dash
+- Dev doctor
+- [DevDocs](https://github.com/yannickglt/alfred-devdocs)
+- Douban
+- DownVid
+- EggTimer
+- [emoji](https://github.com/zenorocha/alfred-workflows)
+- Fantastical
+- [faker](https://github.com/zenorocha/alfred-workflows)
+- [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow)
+- Google Suggest
+- kill process
+- Last changed files
+- [Markdown-image](https://github.com/kaito-kidd/markdown-image-alfred) : `ctrl shift V` (find config in mweb-setup.md)
+- open current safari tab in Chrome
+- open with Atom
+- [open with Visual Studio Code](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-visual-studio-code)
+- [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow)
+- Pivatebay
+- recent items
+- Should I watch this movie?
+- Show mac desktop : `alt D`
+- StackOverflow : so
+- strongPassword : sp
+- taobao Suggest : tb
+- [TimeZones](https://github.com/zenorocha/alfred-workflows/raw/master/time-zones/time-zones.alfredworkflow)
+- temporaryEmail
+- Time machine
+- toggle files
+- Uni call
+- Uninstall with cleanMyMac 3
+- 人民币金额达些
+- 快递查询
+- 有道翻译加强班
+- 百度云 : bpan
