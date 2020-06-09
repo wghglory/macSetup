@@ -4,12 +4,18 @@ Please refer [hackintosh](hackintosh.md). My EFI is stored at baidu disk named "
 
 ## Machine Configuration
 
-- Motherboard: gigabyte Z370 hd3
+- Motherboard: 技嘉 gigabyte Z370 HD3-CF
+- CPU: Core  8th i7-8700 @ 3.20GHz 六核
+- Memory: 16 GB ( 金士顿 DDR4 2666MHz )
+- Graphics: AMD Radeon RX 560 ( 4 GB / 蓝宝石 )
 - Audio: Realtek alc892
-- LAN: INTER GBE 10/100/1000
-- CPU: I7 8th 8700
-- Graphics: Radeon RX 560
-- WIFI and bluetooth: 博通 BCM943602CS 4 天线
+- LAN: INTER GBE 10/100/1000; 英特尔 Ethernet Connection  I219-V / 技嘉
+- WIFI and bluetooth: 博通 BCM943602CS 4 天线	
+- 硬盘
+  - 西数 WDC WD10EZEX-08WN4A0 1 TB 3.5 寸 7200 转/分
+  - 三星 SSD 860 EVO 250GB (固态硬盘) SATA III
+  - 三星 SSD 970 EVO 250GB (固态硬盘) NVM Express
+- 显示器	LG 27UK650 HDR 4K ( 27.2 英寸 )
 
 ## Installation Step
 
