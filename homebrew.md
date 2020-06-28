@@ -1,9 +1,9 @@
 # Homebrew Usage
 
-安装 Homebrew:
+安装 Homebrew 国内方法:
 
 ```bash
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
 ```
 
 更新 Homebrew:
@@ -231,3 +231,7 @@ git remote set-url origin https://github.com/Homebrew/homebrew-core.git
 ```
 
 以 nginx 为例，双击目录快捷方式找到 `/usr/local/Cellar/nginx/1.17.3_1/bin`
+
+## Reference
+
+- <https://www.jianshu.com/p/7ef9e0e4d3c2>
