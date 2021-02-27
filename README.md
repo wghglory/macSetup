@@ -86,7 +86,7 @@ Use [Etcher](https://www.balena.io/etcher/)
 </dict>
 ```
 
-## Issues
+## 八、Issues
 
 ### Set permissions to avoid read/write fail or password required
 
@@ -94,4 +94,4 @@ Use [Etcher](https://www.balena.io/etcher/)
 sudo chmod -R 777 <Your Folder>
 ```
 
-## 八、[安装 softwareDev](softwareDev.md)
+## Next [安装 softwareDev](softwareDev.md)
