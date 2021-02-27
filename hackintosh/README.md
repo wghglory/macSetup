@@ -90,7 +90,7 @@ https://www.kancloud.cn/q952008898/hei_ping_guo/1773021
 
 ## iCloud invalid
 
-**Make sure OpenCore language is Chinese so we can choose machine list !!!**
+**Make sure OpenCore language is Chinese so we can choose machine list !!!** Choose iMac19,2
 
 https://www.bilibili.com/video/BV11a4y1p7GS/?spm_id_from=trigger_reload
 
