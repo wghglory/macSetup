@@ -77,12 +77,22 @@ diskutil list
 
 ## Mount EFI
 
-Better to use `clover configurator`.
+Better to use `OpenCore configurator`.
 
 ```bash
 Guanghuis-iMac:~ derek$ sudo mkdir /Volumes/efi
 Guanghuis-iMac:~ derek$ sudo mount -t msdos /dev/disk0s1 /Volumes/efi
 ```
+
+## OC EFI without USB disk to start OS
+
+https://www.kancloud.cn/q952008898/hei_ping_guo/1773021
+
+## iCloud invalid
+
+**Make sure OpenCore language is Chinese so we can choose machine list !!!**
+
+https://www.bilibili.com/video/BV11a4y1p7GS/?spm_id_from=trigger_reload
 
 ## Disable SIP due to xtraFinder installation
 
