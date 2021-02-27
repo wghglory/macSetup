@@ -25,9 +25,7 @@
 - sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Yosemite --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
 - 也可以用 DiskMaker X
 
-### 3. 制作恢复盘（可以省略）
-
-苹果提供 OS X Recovery Disk Assistant 工具，这个工具将在本地磁盘制作一个恢复分区。下载地址：<http://support.apple.com/kb/dl1433>
+Use [Etcher](https://www.balena.io/etcher/)
 
 ## 三、安装 OS
 
