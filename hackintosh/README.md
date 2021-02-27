@@ -94,6 +94,16 @@ https://www.kancloud.cn/q952008898/hei_ping_guo/1773021
 
 https://www.bilibili.com/video/BV11a4y1p7GS/?spm_id_from=trigger_reload
 
+## Windows and Mac Time not sync
+
+在win系统下: 开始->运行->CMD，打开命令行程序(Vista则要以管理员方式打开命令行程序方可有权限访问注册表)，在命令行中输入下面命令并回车
+
+```shell
+Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+```
+
+Go to Mac, update time, restart
+
 ## Disable SIP due to xtraFinder installation
 
 <https://www.tonymacx86.com/threads/how-to-disable-sip.244637>
