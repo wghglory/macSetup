@@ -35,6 +35,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
    ```bash
    git config --global user.name "Guanghui Wang"
    git config --global user.email guanghui-wang@foxmail.com
+   git config --global core.editor "code --wait". # make sure vscode is installed before this. And gitlens: enable interactive rebase editor
    ```
 
    To push code to your GitHub repositories, we're going to use the recommended HTTPS method (versus SSH), so you don't have to type your username and password everytime, let's enable Git password caching as described [here](https://help.github.com/articles/set-up-git/):
