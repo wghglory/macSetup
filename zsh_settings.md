@@ -78,6 +78,36 @@ POWERLEVEL9K_MODE="nerdfont-complete"
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
+alias gda="git for-each-ref --format '%(refname:short)' refs/heads | grep -v master | xargs git branch -D"
+alias grn="git branch -m"
+alias clr="clear" # Clear your terminal screen
+alias ll='ls -lah' # List all files in current directory in long list format
+alias ldir="ls -al | grep ^d" # List all directories in current directory in long list format
+alias o="open ." # Open the current directory in Finder
+
+## get rid of command not found ##
+alias cd..='cd ..'
+
+## a quick way to get out of current directory ##
+alias ..='cd ..'
+alias ...='cd ../../../'
+alias ....='cd ../../../../'
+alias .....='cd ../../../../'
+alias .2='cd ../../'
+alias .3='cd ../../../'
+alias .4='cd ../../../../'
+alias .5='cd ../../../../..'
+
+## Colorize the grep command output for ease of use (good for log files)##
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+
+alias path='echo -e ${PATH//:/\\n}'
+alias now='date +"%T"'
+alias nowtime=now
+alias nowdate='date +"%d-%m-%Y"'
+
 # Which plugins would you like to load?
 # Standard plugins can be found in $ZSH/plugins/
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
@@ -87,19 +117,18 @@ plugins=(
   git
   zsh-autosuggestions
   zsh-syntax-highlighting
-  brew
+  # brew
   common-aliases
-  copydir
-  copyfile
-  extract
-  git
+  # copydir
+  # copyfile
+  # extract
   npm
   npx
-  nvm
-  osx
-  sudo
+  # nvm
+  # osx
+  # sudo
   vscode
-  Yarn
+  # Yarn
 )
 
 ### Fix slowness of pastes with zsh-syntax-highlighting.zsh
