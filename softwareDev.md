@@ -187,66 +187,62 @@ copy and paste the echo output to machine B
 
 sample output:
 
-```bash
-code --install-extension AlanWalk.markdown-toc
-code --install-extension CoenraadS.bracket-pair-colorizer
-code --install-extension IBM.output-colorizer
-code --install-extension akamud.vscode-theme-onelight
-code --install-extension Angular.ng-template
+```shell
+code --install-extension bierner.markdown-preview-github-styles
 code --install-extension boukichi.git-exclude
+code --install-extension bradlc.vscode-tailwindcss
 code --install-extension capaj.vscode-exports-autocomplete
-code --install-extension christian-kohler.npm-intellisense
 code --install-extension christian-kohler.path-intellisense
-code --install-extension codezombiech.gitignore
-code --install-extension DavidAnson.vscode-markdownlint
+code --install-extension chrmarti.regex
+code --install-extension dariofuzinato.vue-peek
+code --install-extension Dart-Code.dart-code
+code --install-extension Dart-Code.flutter
 code --install-extension dbaeumer.vscode-eslint
-code --install-extension deerawan.vscode-dash
 code --install-extension deerawan.vscode-faker
 code --install-extension donjayamanne.githistory
+code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension eamodio.gitlens
-code --install-extension ecmel.vscode-html-css
 code --install-extension EditorConfig.EditorConfig
-code --install-extension eg2.tslint
-code --install-extension eg2.vscode-npm-script
-code --install-extension EQuimper.react-native-react-redux
 code --install-extension esbenp.prettier-vscode
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension formulahendry.code-runner
+code --install-extension GitHub.vscode-pull-request-github
+code --install-extension GitLab.gitlab-workflow
 code --install-extension Gruntfuggly.todo-tree
-code --install-extension hbenl.vscode-jasmine-test-adapter
-code --install-extension hbenl.vscode-test-explorer
 code --install-extension hollowtree.vue-snippets
-code --install-extension humao.rest-client
-code --install-extension ionutvmi.path-autocomplete
-code --install-extension jvitor83.typings-autoinstaller
-code --install-extension kamikillerto.vscode-colorize
-code --install-extension kisstkondoros.typelens
+code --install-extension johnpapa.Angular2
+code --install-extension jpoissonnier.vscode-styled-components
+code --install-extension kisstkondoros.vscode-gutter-preview
+code --install-extension KnisterPeter.vscode-github
+code --install-extension MariusAlchimavicius.json-to-ts
 code --install-extension mdickin.markdown-shortcuts
-code --install-extension Mikael.Angular-BeastCode
-code --install-extension mrmlnc.vscode-scss
-code --install-extension ms-azuretools.vscode-docker
-code --install-extension ms-python.python
+code --install-extension mhutchie.git-graph
+code --install-extension mikestead.dotenv
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension msjsdiag.debugger-for-chrome
-code --install-extension nonoroazoro.syncing
+code --install-extension msjsdiag.vscode-react-native
+code --install-extension Nash.awesome-flutter-snippets
+code --install-extension OBKoro1.autoCommit
 code --install-extension octref.vetur
-code --install-extension PKief.material-icon-theme
-code --install-extension ritwickdey.live-sass
+code --install-extension oderwat.indent-rainbow
+code --install-extension Orta.vscode-jest
+code --install-extension quicktype.quicktype
+code --install-extension rangav.vscode-thunder-client
+code --install-extension redhat.vscode-yaml
+code --install-extension richie5um2.vscode-sort-json
 code --install-extension ritwickdey.LiveServer
-code --install-extension robinbentley.sass-indented
+code --install-extension ryu1kn.text-marker
+code --install-extension sdras.night-owl
 code --install-extension Shan.code-settings-sync
-code --install-extension shinnn.stylelint
+code --install-extension silvenon.mdx
 code --install-extension steoates.autoimport
 code --install-extension streetsidesoftware.code-spell-checker
-code --install-extension techer.open-in-browser
+code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension waderyan.gitblame
 code --install-extension WallabyJs.quokka-vscode
-code --install-extension wayou.vscode-todo-highlight
-code --install-extension wix.vscode-import-cost
-code --install-extension xabikos.JavaScriptSnippets
-code --install-extension yzane.markdown-pdf
+code --install-extension zhuangtongfa.material-theme
 ```
 
 #### Completely uninstall VS Code extensions
